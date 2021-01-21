@@ -1,0 +1,28 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+
+<STUDENTDATA>
+    <STUDENT>
+        <USN>USN:1MV17CS127</USN>
+        <NAME>SUNCHIT</NAME>
+        <COLLEGE>SMVIT</COLLEGE>
+        <BRANCH>BRANCH :CSE</BRANCH>
+        <YEAR>YEAR : 2020</YEAR>
+        <EMAIL>E-MAIL : sunchit@gmail.com</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <USN>USN:1MV17CS127</USN>
+        <NAME>SUNCHIT</NAME>
+        <COLLEGE>SMVIT</COLLEGE>
+        <BRANCH>BRANCH :CSE</BRANCH>
+        <YEAR>YEAR : 2020</YEAR>
+        <EMAIL>E-MAIL : sunchit@gmail.com</EMAIL>
+    </STUDENT>
+    <STUDENT>
+        <USN>USN:1MV17CS127</USN>
+        <NAME>SUNCHIT</NAME>
+        <COLLEGE>SMVIT</COLLEGE>
+        <BRANCH>BRANCH :CSE</BRANCH>
+        <YEAR>YEAR : 2020</YEAR>
+        <EMAIL>E-MAIL : sunchit@gmail.com</EMAIL>
+    </STUDENT>
+</STUDENTDATA>
